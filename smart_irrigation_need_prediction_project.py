@@ -95,7 +95,7 @@ from sklearn.metrics import accuracy_score,classification_report,confusion_matri
 
 """**IMPORTING DATASET**"""
 
-df=pd.read_csv("/content/drive/MyDrive/DATASETS/irrigation_prediction.csv")
+df=pd.read_csv("irrigation_prediction.csv")
 df
 
 """**DATA UNDERSTANDING**"""
